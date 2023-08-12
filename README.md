@@ -36,10 +36,6 @@ In the Enchanted Quest Game, you will:
 2. Navigate to the repository directory in your terminal.
 3. Run the following command to start the game:
 
-## Credits
-
-This game was developed as a personal project by [Muhammad Usman]. Inspired by classic text-based adventure games, it offers a captivating experience for players of all ages.
-
 ## Contact
 
 For any inquiries or feedback, feel free to reach out to [usman.the.coder@gmail.com].
